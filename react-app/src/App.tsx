@@ -9,7 +9,7 @@ function App() {
     <div>
       {isShow === true && (
         <Alert type="alert-primary" isDimissible={true}>
-          <strong>Holy guacamole!</strong> You should check in on some of those
+          <strong>Holy Molly!</strong> You should check in on some of those
           fields below.
           <Button
             type="button"
